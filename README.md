@@ -4,6 +4,9 @@ This project enables **real-time upper-body teleoperation** of the **Unitree G1 
 using **HTC Vive / Valve Index controllers**.
 Controller poses are streamed via UDP and solved through **Mink’s inverse kinematics (IK)** in **MuJoCo**.
 
+## 🎥 Demo
+https://github.com/user-attachments/assets/b0a5cb17-7d86-43ba-866a-111ac0d0964f
+
 ---
 
 ### ⚙️ Environment Setup
