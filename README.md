@@ -23,7 +23,7 @@ This prevents version conflicts between **Mink** and **MuJoCo** (`libstdc++`).
 #### 🖥 Windows (VR data sender)
 
 ```bash
-python controller_g1.py
+python g1_hfbody.py
 ```
 
 #### 🧠 Ubuntu (IK and visualization)
